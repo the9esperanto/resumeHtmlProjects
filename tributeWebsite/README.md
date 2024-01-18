@@ -15,11 +15,11 @@ Feel free to explore the simplicity of this Singer's Tribute Page and join me as
 Concepts and Tags Used:
 
 1. HTML Structure:
-   - `!DOCTYPE html`: Declaration of HTML5 document type.
-   - `html lang="en"`: HTML root element with language attribute.
-   - `head`: Contains meta-information, title, and links to external resources.
-   - `meta charset="UTF-8"`: Defines character set.
-   - `meta name="viewport" content="width=device-width, initial-scale=1.0"`: Ensures proper rendering on various devices.
+   - `<!DOCTYPE html>`: Declaration of HTML5 document type.
+   - `<html lang="en">`: HTML root element with language attribute.
+   - `<head>`: Contains meta-information, title, and links to external resources.
+   - `<meta charset="UTF-8">`: Defines character set.
+   - `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: Ensures proper rendering on various devices.
    - `<title>`: Sets the title of the webpage.
    - `<link>`: Links to external resources (stylesheet, favicon).
 
