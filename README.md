@@ -15,8 +15,10 @@ Why Explore:
 
 Project Highlights:
 
-Project 1: webpageForPoetProfile 
+Project 1:
 # webpageForPoetProfile
+
+
 
 Project 2: Name
 
