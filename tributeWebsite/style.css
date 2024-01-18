@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    background-color: rgb(11, 35, 72);
+    min-height: 100vh;
+    border: 17px groove #fff;
+
+}
+
+.content{
+    max-width: 90%;
+    margin: auto;
+    color: #fff;
+
+}
+
+.image_container,img{
+    width: 350px;
+    border-radius: 40%;
+    box-shadow: 0px 0px 20px #bdc3c7;
+    
+}
+
+.top_section{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.top_section h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.top_section h3{
+    text-align: end;
+    font-size: 25px;
+}
+
+.about_section p
+{
+    margin-top: 10px;
+    text-align: justify;
+    line-height: 100px;
+    letter-spacing: 12px;
+}
+
+.about_section h2
+{
+    font-size: 40px;
+    margin-top: 60px;
+}
+
+.last_section{
+    margin-top: 10px;
+    margin-bottom: 40px;
+    text-align: justify;
+}
+
+.last_section ul{
+    margin-left: 50px;
+}
+
+.last_section li{
+    margin-bottom: 10px;
+}
+
+footer{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: end;
+}
+
+footer a{
+color: rgb(243, 248, 116);
+}
+
+/* dotted - Defines a dotted border
+dashed - Defines a dashed border
+solid - Defines a solid border
+double - Defines a double border
+groove - Defines a 3D grooved border. The effect depends on the border-color value
+ridge - Defines a 3D ridged border. The effect depends on the border-color value
+inset - Defines a 3D inset border. The effect depends on the border-color value
+outset - Defines a 3D outset border. The effect depends on the border-color value
+none - Defines no border
+hidden - Defines a hidden border */
