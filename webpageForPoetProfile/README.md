@@ -24,35 +24,38 @@ Feel free to explore the poetic simplicity of this Shayar's profile page and joi
 
 Here is a list of HTML tags and concepts used in the provided code:
 
-<!DOCTYPE html>: Declares the HTML document type and version.
-<html>: The root element of an HTML document.
-<head>: Contains meta-information about the HTML document, such as character set, title, and external resources.
-<meta>: Provides metadata about the HTML document, such as character set and viewport settings.
-<title>: Sets the title of the HTML document.
-<link>: Establishes relationships between the current document and external resources, such as stylesheets and fonts.
-<style>: Contains CSS code to style the HTML document.
-<body>: Contains the content of the HTML document, including text, images, and other elements.
-<header>: Represents a header section in the document, often used for titles or headings.
-<aside>: Represents content that is tangentially related to the content around it, often used for sidebars.
-<p>: Represents a paragraph.
-<div>: Represents a generic container.
-<iframe>: Embeds an inline frame, such as a YouTube video, into the document.
-<img>: Embeds an image into the document.
-<pre>: Represents preformatted text, preserving both spaces and line breaks.
-<h2>: Represents a second-level heading.
-<br>: Represents a line break.
-<a>: Represents a hyperlink, linking to external resources or other parts of the document.
+1) !DOCTYPE html: Declares the HTML document type and version.
+2) html: The root element of an HTML document.
+3) head: Contains meta-information about the HTML document, such as character set, title, and external resources.
+4) meta: Provides metadata about the HTML document, such as character set and viewport settings.
+5) title: Sets the title of the HTML document.
+6) link: Establishes relationships between the current document and external resources, such as stylesheets and fonts.
+7) style: Contains CSS code to style the HTML document.
+8) body: Contains the content of the HTML document, including text, images, and other elements.
+9) header: Represents a header section in the document, often used for titles or headings.
+10) aside: Represents content that is tangentially related to the content around it, often used for sidebars.
+11) p: Represents a paragraph.
+12) div: Represents a generic container.
+13) iframe: Embeds an inline frame, such as a YouTube video, into the document.
+14) img: Embeds an image into the document.
+15) pre: Represents preformatted text, preserving both spaces and line breaks.
+16) h2: Represents a second-level heading.
+17) br: Represents a line break.
+18) a: Represents a hyperlink, linking to external resources or other parts of the document.
+
+
 Concepts:
 
-Font Loading: Loading external fonts using Google Fonts.
-CSS Styling: Applying styles to elements using CSS.
-Responsive Design: Setting the viewport for better rendering on different devices.
-Embedded Content: Embedding YouTube videos using iframes.
-CSS Flexbox: Achieving layout using the float property and percentages.
-Color Representation: Using hexadecimal codes for specifying colors.
-Box Shadow: Applying shadow effect to an element.
-Font Family: Specifying the preferred font for text.
-Email Link: Creating a hyperlink for sending emails.
-Hyperlinks: Linking to external websites or pages within the document.
+1) Font Loading: Loading external fonts using Google Fonts.
+2) CSS Styling: Applying styles to elements using CSS.
+3) Responsive Design: Setting the viewport for better rendering on different devices.
+4) Embedded Content: Embedding YouTube videos using iframes.
+5) CSS Flexbox: Achieving layout using the float property and percentages.
+6) Color Representation: Using hexadecimal codes for specifying colors.
+7) Box Shadow: Applying shadow effect to an element.
+8) Font Family: Specifying the preferred font for text.
+9) Email Link: Creating a hyperlink for sending emails.
+10) Hyperlinks: Linking to external websites or pages within the document.
+
 These are the main tags and concepts used in the provided HTML code.
 
