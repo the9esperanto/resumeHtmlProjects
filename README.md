@@ -15,13 +15,21 @@ Why Explore:
 
 Project Highlights:
 
-Project 1: ### webpageForPoetProfile
+Project 1: 
+### webpageForPoetProfile
 
 
 
-Project 2: Name
+Project 2: 
+### tributeWebsite
 
-Project 3: Name
-...
+
+
+Project 3: 
+### amazonClone
+
+
+
+
 Feel free to explore, share your thoughts, and let's connect to elevate the web development experience together. Happy coding! 🖥️✨
 
